@@ -22,12 +22,13 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Features and Task Breakdown
 A simple dashboard interface using React, Next.js, and TypeScript. The dashboard displays a list of companies that hold user data, has infinite scroll, and allow users to initiate data deletion requests.
-- [x] API integration
+| ------------- | ------------- |
+| - [x] API integration
 - [x] Display Company List
 - [x] Pagination/Infinite Scroll
 - [x] State Management
 - [x] Handle error states
-- [x] Has loading indicator while fetching the data
+- [x] Has loading indicator while fetching the data | asdasd |
 
 ## Deployed in Vercel
 Open [https://kim-ota-coding-challenge.vercel.app/](https://kim-ota-coding-challenge.vercel.app/) with your browser to see the result.
