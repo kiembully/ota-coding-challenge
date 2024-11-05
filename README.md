@@ -22,6 +22,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Features and Task Breakdown
 A simple dashboard interface using React, Next.js, and TypeScript. The dashboard displays a list of companies that hold user data, has infinite scroll, and allow users to initiate data deletion requests.
+| BEFORE | AFTER |
 | ------------- | ------------- |
 | - [x] API integration
 - [x] Display Company List
